@@ -2,7 +2,6 @@
 import math
 import string
 from read_file import *
-import collections
 import difflib
 from sys import argv
 
